@@ -1,2 +1,2 @@
-# reactjs-translate-language-app
+# ReactJS Translate Language App
 Translate Language App
